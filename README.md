@@ -1,11 +1,17 @@
-FMProSync
+# FMProSync
 =========
 
 FileMaker® Go と FileMaker Server 上のデータの同期ソリューション
 
+FileMaker 13 以降は、 [*FMProSync2*](https://github.com/Genecom/FMProSync2/) をご利用ください。
+
+
+=========
+# LICENSE
+
 The MIT License
 
-Copyright © 2013 Genecom, Inc. All Rights Reserved.
+Copyright © 2011-2014 Genecom, Inc. All Rights Reserved.
 
 以下に定める条件に従い、本ソフトウェアおよび関連文書のファイル（以下「ソフトウェア」）の複製を取得するすべての人に対し、ソフトウェアを無制限に扱うことを無償で許可します。
 これには、ソフトウェアの複製を使用、複写、変更、結合、掲載、頒布、サブライセンス、および/または販売する権利、およびソフトウェアを提供する相手に同じことを許可する権利も無制限に含まれます。
